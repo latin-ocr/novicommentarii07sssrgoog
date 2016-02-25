@@ -1,0 +1,44 @@
+¹ALGORITHMI SINGVLARIS. 61
+
+nis' diuisor non'datnr,'nis1 qui simul stt communis di·
+visor horum (b) et (b, c), ac denique honum 1 et b;
+qui cum nullum habeant communem diuisorem, neque
+illi habebunt, eruntque propterea numeri primi. Hinc
+veto etiam intelligitur, numeros (a,b‚ 4, d, etc.) et
+(b‚c,d‚ etc.) effe inter se primos.
+
+18. Differentiae ergo iliae minores effe nequeunt, .
+quam fi numeratores in mitatem, fiue affirmatiuam, siue
+negatiuam, abeant, id quod re vera euenire exempla de-
+claram. Conueniet ergo, idem ex natura istorum nume·
+rorum pet indices formatorum demonstrari. Pro primo
+
+’ quidem numeratore cum sit (a,b)t.·.b(a)÷1 pet
+
+§. 7. erit:
+
+(aib)··)1(a,-b)=abb(a)- 1:— „
+Tum veto pto secundo. ob (b, c).·:c(b)÷1 et
+(a,b,ac):c( a‚(b)÷ (a)erit
+(ab( )‚(bc)·· (b) (a,b, c ):(a ‚‚b)cib)-{-(a bi-(b)c( 4, b)-(
+quae propter terminos (a,b) )c(b)·-( bc() a‚b) se tollen·
+(ω abit 1n
+
+(a,)·-b -(b)(a):·i-1‚ ita vt fit secundus numerator
+(a‚b)(b,c)-(b)(a,b‚c):†1.
+
+19· Quemadmodum hic numerator secundm ad
+primum negatiue sumtmn eii teducius , ita tettius
+ostendi potest secundo negatiue summ effe aequalis
+
+Nam quia (b‚c‚d)':d(b‚c)÷(b) et
+(a,b,c, d):d(a‚b,c)÷(a,b) edt ’
+
+(a,b,c)(b,c‚d)-(b,c)(a‚b,c‚i):(a,b,c)d(b‚c)÷(ae,b,c)(b)
+
+- (b,ch(a,b,c)†-.(b,c) (44)
+
+Η 3 Haec
+
+ 
+
